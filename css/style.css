@@ -613,7 +613,7 @@ h6 { font-weight: 400 }
     font-size: 16px;
     font-weight: 700;
     border-radius: 4px;
-    color: #ffffff;
+    color: #000;
     min-width: 130px;
     margin-right: 10px;
     text-decoration: none;
@@ -623,7 +623,7 @@ h6 { font-weight: 400 }
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
-    background: #000000;
+    background: #fbb023;
 }
 .simple-button:hover {
     color: #333;
